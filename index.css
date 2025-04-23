@@ -1,0 +1,27 @@
+.navbar.navbar-expand-lg {
+    background-color: rgb(31, 27, 27);
+
+    .navbar-brand {
+        color: aliceblue;
+        font-size:xx-large;
+        font-family: 'Courier New', Courier, monospace;
+
+    }
+
+    .nav-link.active {
+        color: aliceblue;
+    }
+
+    .nav-link {
+        color: aliceblue;
+    }
+    
+}
+
+.bi.bi-calculator {
+    color: darkorange;
+    padding: 10px;
+    
+}
+
+
