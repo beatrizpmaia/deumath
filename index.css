@@ -19,9 +19,17 @@
 }
 
 .bi.bi-calculator {
-    color: darkorange;
+    color: rgb(175, 148, 148);
     padding: 10px;
     
+}
+
+
+#banner-header {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
 }
 
 
